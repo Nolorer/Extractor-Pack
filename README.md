@@ -9,7 +9,7 @@ Extractors:
 Copies the current background to the script's folder.
 
 2-Font Extractor:\
-Copies all the font files from the C:/Windows/Fonts directory to it's folder.
+Copies all the font files from the C:/Windows/Fonts and C:\Windows\Boot\Fonts directories to it's folder.
 
 3-Cursor Extractor:\
 Copies all the cursor files from the cursor directory to it's folder.
