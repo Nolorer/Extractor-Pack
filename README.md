@@ -3,7 +3,7 @@
 Description:\
 It's a pack of batch scripts(.bat files) that extract different things from a windows machine.
 
-Extractors:\
+Extractors:
   
 1-Background Extractor:\
 Copies the current background to the script's folder.
